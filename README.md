@@ -1,6 +1,6 @@
-# Data visualization class
+# Data visualization Project
 
-This project tend to provide the solution for recommending the products of real estate.
+This project tends to provide the solution for recommending the products of real estate.
 
 ## Requirements
 
